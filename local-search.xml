@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>绝对路径和相对路径的探讨</title>
+    <link href="/2024/06/29/%E7%BB%9D%E5%AF%B9%E8%B7%AF%E5%BE%84%E5%92%8C%E7%9B%B8%E5%AF%B9%E8%B7%AF%E5%BE%84%E7%9A%84%E6%8E%A2%E8%AE%A8/"/>
+    <url>/2024/06/29/%E7%BB%9D%E5%AF%B9%E8%B7%AF%E5%BE%84%E5%92%8C%E7%9B%B8%E5%AF%B9%E8%B7%AF%E5%BE%84%E7%9A%84%E6%8E%A2%E8%AE%A8/</url>
+    
+    <content type="html"><![CDATA[<h2 id="绝对路径"><a href="#绝对路径" class="headerlink" title="绝对路径"></a>绝对路径</h2><p>绝对路径是指文件在硬盘上真正存在的路径。  </p><p>例如“1.txt”这个文件是存放在硬盘的“C:\Users\15063\Desktop”目录下，那么 “1.txt”这个文档的绝对路径就是“C:\Users\15063\Desktop\1.txt”。  </p><h2 id="相对路径"><a href="#相对路径" class="headerlink" title="相对路径"></a>相对路径</h2><p>相对于自己的目标文件位置。  </p><p>例如“1.htm”文件所在目录为“C:\Users\15063\Desktop\lqf”，而“1.txt”文件所在目录为“C:\Users\15063\Desktop”，那么“1.txt”相对于“1.htm”文件来说，是在其所在目录的上级目录里。  </p><h2 id="区别"><a href="#区别" class="headerlink" title="区别"></a>区别</h2><p>两者区别：①绝对路径是一个文件实际存在于硬盘中的路径。②相对路径，指的是与自身的目标档案相关的位置。③绝对路径是指可以从这个路径上查找文件夹，不管是从外部或内部存取。而相对路径则是与它本身相关的，其它地方的档案和路径，则只能在内部存取。</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>文件路径</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>测试文章</title>
     <link href="/2024/06/28/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
     <url>/2024/06/28/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
